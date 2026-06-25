@@ -1,5 +1,3 @@
-# petlead-ai-demo
-
 # PetLead AI
 
 AI-powered abandoned lead recovery system for pet insurance businesses.
